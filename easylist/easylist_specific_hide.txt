@@ -6335,7 +6335,7 @@ daily-choices.com##[id^="sticky_"]
 alternet.org##[id^="story_page_incontent_"]
 thesaurus.com##[id^="tco"]
 topcpu.net##[id^="topcpu_net_in_page_repeat_responsive"][style="min-height: 300px;"]
-jigsawplanet.com##.content div[id^="cb"]:not(.ts-gmspc)
+jigsawplanet.com##div[id^="cb"]:not(.ts-gmspc)
 everythingrf.com##[id^="wallpaper_"]
 wuxiaworld.site##[id^="wuxia-"]
 samfw.com##[name="chimera_b"]
